@@ -1,0 +1,162 @@
+﻿body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+/*input,
+select,
+textarea {
+    max-width: 280px;
+}*/
+
+#Homepage{
+    background:#69BD44;
+    color:#fff;
+}
+#Registration{
+    color:#fff;
+    background:#2F83BF;
+}
+.navbar{
+    background:#1674BA;
+     color:#fff;
+     margin-bottom:0;
+     border-color: #1674BA;
+     border-radius: unset;
+}
+.navbar .navbar-collapse .navbar-nav li a {
+    color: white;
+    padding-left: 25px;
+}
+.navbar .navbar-collapse .navbar-nav li a:hover {
+    color: black;
+    background-color: #F2F2F2;
+}
+#furtherInfo{
+    background:#fff;
+}
+#searchBtn{
+    margin-top: 10px;
+    width:100%;
+}
+/*#socialIcon{
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 2px;
+}*/
+#infoFooter{
+    background: #fff;
+
+}
+#sec{ background: #2F83BF; 
+      color: #fff;
+}
+
+#logIn, #Reg{
+    border: 1px solid;
+    border-radius: 15px;
+    color: #fff;
+    background: #1674BA;
+    margin-bottom: 10px;
+}
+#Reg{ 
+    margin-left: 20px;
+}
+#accountBtn{
+    padding:15px;
+}
+.regButtons{
+     border: 1px solid #fff;
+    border-radius: 30px;
+}
+#footersection h6{
+    font-family:Georgia;
+    font-weight:bold;
+    color:#000;
+
+}
+#footersection p {
+   margin: 1px 0;
+}
+#banner{
+    background: #F2F2F2;
+}
+#socialIcon{
+    margin-bottom: 10px;
+}
+#accountDetails{
+    background: #69BD44;
+    color: #fff;
+}
+#transactions{
+    padding-top: 20px;
+}
+.transHistory{
+    background: #E1E1E1;
+}
+#Ken, #Gtb, #Dstv{
+    padding-left: 10px;
+    padding-top: 1px;
+    margin-bottom: 1px;
+    padding-bottom: 1px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 3px;
+    border-color: #F1EFED;
+}
+footer{
+    background: #69BD44;
+    color: #fff;
+    text-align: right;
+}
+.details{
+    font-size: 10px;
+}
+.Images{
+    margin-top: 15px;
+    padding-left: 2px;
+}
+#iconHeader{
+    position: absolute;
+    left: 930px;
+}
+#navIcons{
+    position: relative;
+}
+#proCont{
+    position: relative;
+}
+#proLeft{
+    position: absolute;
+    left: 720px;
+    bottom: -1px;
+}
+#Anth{
+    color: white;
+    position: absolute;
+    left: 80px;
+    top: 13px;
+    font-family: Verdana;
+    font-size: 16px;
+}
+#alimba{
+    font-weight: 800;
+}
+
+/*#AnchAn{
+    text-decoration: none;
+}*/
